@@ -1,0 +1,244 @@
+<graphml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://graphml.graphdrawing.org/xmlns" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.1/graphml.xsd">
+  <key id="d0" for="node" attr.name="category" attr.type="string"/>
+  <key id="d1" for="node" attr.name="name" attr.type="string"/>
+  <graph edgedefault="undirected">
+    <node id="xpr0011">
+      <data key="d0">architecte</data>
+      <data key="d1">Baillis, Jean</data>
+    </node>
+    <node id="xpr0012">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Bailly, Jean Baptiste</data>
+    </node>
+    <node id="xpr0027">
+      <data key="d0">architecte</data>
+      <data key="d1">Boffrand, Germain</data>
+    </node>
+    <node id="xpr0048">
+      <data key="d0">transfuge</data>
+      <data key="d1">Caulle, Martin</data>
+    </node>
+    <node id="xpr0052">
+      <data key="d0">arpenteur</data>
+      <data key="d1">Chastelain (I), Isidore</data>
+    </node>
+    <node id="xpr0053">
+      <data key="d0">unknown</data>
+      <data key="d1">Chastelain (Ii), Isidore</data>
+    </node>
+    <node id="xpr0058">
+      <data key="d0">arpenteur</data>
+      <data key="d1">Collibeuf, Laurent</data>
+    </node>
+    <node id="xpr0059">
+      <data key="d0">architecte</data>
+      <data key="d1">Convers, Louis</data>
+    </node>
+    <node id="xpr0063">
+      <data key="d0">arpenteur</data>
+      <data key="d1">Cudeville, Jacques</data>
+    </node>
+    <node id="xpr0077">
+      <data key="d0">architecte</data>
+      <data key="d1">De Mezerets (Père), Michel</data>
+    </node>
+    <node id="xpr0078">
+      <data key="d0">architecte</data>
+      <data key="d1">De Mezeretz (Fils), Charles Philippe</data>
+    </node>
+    <node id="xpr0086">
+      <data key="d0">architecte</data>
+      <data key="d1">Delespine, Nicolas</data>
+    </node>
+    <node id="xpr0087">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Delespine, Pierre Nicolas</data>
+    </node>
+    <node id="xpr0100">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Dubois, Jean</data>
+    </node>
+    <node id="xpr0105">
+      <data key="d0">arpenteur</data>
+      <data key="d1">Duval, Charles</data>
+    </node>
+    <node id="xpr0113">
+      <data key="d0">architecte</data>
+      <data key="d1">Frosne, Jean Luc</data>
+    </node>
+    <node id="xpr0124">
+      <data key="d0">architecte</data>
+      <data key="d1">Gobin, Jean François</data>
+    </node>
+    <node id="xpr0126">
+      <data key="d0">architecte</data>
+      <data key="d1">Goujon, Louis Alexandre</data>
+    </node>
+    <node id="xpr0133">
+      <data key="d0">arpenteur</data>
+      <data key="d1">Guillain, Philippe</data>
+    </node>
+    <node id="xpr0138">
+      <data key="d0">arpenteur</data>
+      <data key="d1">Hallot, Etienne</data>
+    </node>
+    <node id="xpr0140">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Hequan, Pierre</data>
+    </node>
+    <node id="xpr0146">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Joubert, Charles</data>
+    </node>
+    <node id="xpr0149">
+      <data key="d0">transfuge</data>
+      <data key="d1">Ju, Charles</data>
+    </node>
+    <node id="xpr0151">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Laisney, François Etienne</data>
+    </node>
+    <node id="xpr0153">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Lajoue, Jacques</data>
+    </node>
+    <node id="xpr0167">
+      <data key="d0">architecte</data>
+      <data key="d1">Le Maistre, Pierre</data>
+    </node>
+    <node id="xpr0168">
+      <data key="d0">architecte</data>
+      <data key="d1">Le Proust, Rolland</data>
+    </node>
+    <node id="xpr0170">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Le Roy, Estienne</data>
+    </node>
+    <node id="xpr0180">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Leve, Pierre</data>
+    </node>
+    <node id="xpr0181">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Lievain, Nicolas</data>
+    </node>
+    <node id="xpr0186">
+      <data key="d0">architecte</data>
+      <data key="d1">Lourdet, Baudouin Paul</data>
+    </node>
+    <node id="xpr0189">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Marchand, Marc</data>
+    </node>
+    <node id="xpr0190">
+      <data key="d0">architecte</data>
+      <data key="d1">Marteau, Jean Baptiste</data>
+    </node>
+    <node id="xpr0194">
+      <data key="d0">architecte</data>
+      <data key="d1">Mazieres, Jacques</data>
+    </node>
+    <node id="xpr0197">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Miche, Jacques</data>
+    </node>
+    <node id="xpr0204">
+      <data key="d0">architecte</data>
+      <data key="d1">Pageois, François</data>
+    </node>
+    <node id="xpr0211">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Perrault, André</data>
+    </node>
+    <node id="xpr0221">
+      <data key="d0">architecte</data>
+      <data key="d1">Pirethouy, Jacques</data>
+    </node>
+    <node id="xpr0232">
+      <data key="d0">architecte</data>
+      <data key="d1">Quirot, Pierre</data>
+    </node>
+    <node id="xpr0239">
+      <data key="d0">arpenteur</data>
+      <data key="d1">Rohais, Toussaint</data>
+    </node>
+    <node id="xpr0244">
+      <data key="d0">entrepreneur</data>
+      <data key="d1">Serouge, Jean</data>
+    </node>
+    <node id="xpr0264">
+      <data key="d0">architecte</data>
+      <data key="d1">Vuyet, Jean Robert</data>
+    </node>
+    <edge id="272b150c-fd43-4b72-9d54-541d039e0896" source="xpr0124" target="xpr0113"/>
+    <edge id="283351bb-bca1-41ea-b171-a620fafd3a0e" source="xpr0113" target="xpr0181"/>
+    <edge id="90b979db-f4ef-4d08-8cbe-795c84f33cde" source="xpr0168" target="xpr0052"/>
+    <edge id="bd5e46e7-5e7f-4593-bf27-a42e991cd523" source="xpr0211" target="xpr0264"/>
+    <edge id="9fb9dd7e-f3ff-4e06-a1ed-c47f28c54096" source="xpr0197" target="xpr0181"/>
+    <edge id="a7d6146d-f2ac-478d-9d73-e41092847949" source="xpr0077" target="xpr0059"/>
+    <edge id="7f8a035c-a0cc-400e-b838-10986de255b5" source="xpr0153" target="xpr0048"/>
+    <edge id="cc2baff2-f937-4cf3-915b-a3893a04c208" source="xpr0153" target="xpr0012"/>
+    <edge id="0a937c5f-8de4-4ccd-9b83-f98f22fb5e72" source="xpr0211" target="xpr0264"/>
+    <edge id="da96de03-9198-41ac-8683-4a9d7195f22a" source="xpr0011" target="xpr0180"/>
+    <edge id="c727ea1e-3596-45ed-8bde-f210d1cbc5e3" source="xpr0086" target="xpr0168"/>
+    <edge id="64446f3e-5e77-4217-8358-5b5309a0572d" source="xpr0027" target="xpr0078"/>
+    <edge id="f5987ee8-4db1-4e34-a29b-1051a889362d" source="xpr0027" target="xpr0113"/>
+    <edge id="a16e8487-a40e-4e5f-868c-8ab5c0ff94d9" source="xpr0078" target="xpr0113"/>
+    <edge id="ce607951-83e2-429c-8406-2b0343f96856" source="xpr0086" target="xpr0011"/>
+    <edge id="5c611671-533f-4667-bfd0-ccbb054ad4e9" source="xpr0153" target="xpr0197"/>
+    <edge id="5b1977f5-0c3d-47ab-9455-010ca2ea694b" source="xpr0133" target="xpr0052"/>
+    <edge id="048cf0f5-545b-4fb2-8ab4-599fccdb5e1a" source="xpr0124" target="xpr0126"/>
+    <edge id="fc5caa2f-d020-4af4-9397-c9b42b6104ba" source="xpr0168" target="xpr0077"/>
+    <edge id="fbf339f1-8d55-4f5f-a02a-5474e3a68db1" source="xpr0086" target="xpr0264"/>
+    <edge id="2e374acb-3f07-4b78-8b25-7f45850889e7" source="xpr0086" target="xpr0059"/>
+    <edge id="eddede10-f1b3-4c1e-8ff0-45aa9b635046" source="xpr0264" target="xpr0059"/>
+    <edge id="4115b4e3-49c1-4d31-a5b3-91504d047d01" source="xpr0153" target="xpr0197"/>
+    <edge id="2fb24a22-3a99-4f27-a726-7fce5a21a1de" source="xpr0077" target="xpr0244"/>
+    <edge id="69b648ad-8965-48c6-884d-a5e8fa4a0b17" source="xpr0077" target="xpr0180"/>
+    <edge id="3ae4e574-b72c-4d6e-884c-85d0d0e52635" source="xpr0211" target="xpr0264"/>
+    <edge id="95555231-3694-4900-a688-84e8f9357653" source="xpr0138" target="xpr0239"/>
+    <edge id="d86518f6-a3cd-4ade-bd5f-b3600987f7fb" source="xpr0138" target="xpr0077"/>
+    <edge id="e26b8382-61c3-4e46-9b23-2b6c720b13de" source="xpr0239" target="xpr0077"/>
+    <edge id="4cf6e0b6-5410-43f7-b72e-17c6b88b5d34" source="xpr0153" target="xpr0077"/>
+    <edge id="127a14f6-2a20-46a2-81f9-7bb690a5cf29" source="xpr0168" target="xpr0197"/>
+    <edge id="fe32569b-d59b-488b-940f-ce3e5e9e2e0f" source="xpr0180" target="xpr0151"/>
+    <edge id="480cca6e-83cb-4060-b57e-9702970341d6" source="xpr0221" target="xpr0077"/>
+    <edge id="f4172aa9-608b-4a39-887d-2b5649253e21" source="xpr0221" target="xpr0059"/>
+    <edge id="fed3a235-3bd7-4da6-8bcd-c0eea38d53f8" source="xpr0077" target="xpr0059"/>
+    <edge id="022d377b-a021-4d9e-92de-a435d9cb0e53" source="xpr0153" target="xpr0197"/>
+    <edge id="8c9aa17b-5235-4e01-a4c7-b2901a7b418c" source="xpr0027" target="xpr0197"/>
+    <edge id="189be9fd-d18e-473a-b960-dd3c3319b32d" source="xpr0027" target="xpr0058"/>
+    <edge id="ff2f2605-dfd4-4e2b-a89b-90f1838808ae" source="xpr0197" target="xpr0058"/>
+    <edge id="a3eca0b0-24c6-42ee-b320-344aae3987f9" source="xpr0204" target="xpr0153"/>
+    <edge id="f6c19741-1727-4886-b739-029336a38331" source="xpr0124" target="xpr0087"/>
+    <edge id="2275c31b-1178-458e-9a1c-1c986ca61473" source="xpr0124" target="xpr0052"/>
+    <edge id="cbe40391-72d4-4db7-ae3c-5d070fd16614" source="xpr0087" target="xpr0052"/>
+    <edge id="f5668b29-07fd-480e-aaa4-bc0a282b8cf5" source="xpr0124" target="xpr0244"/>
+    <edge id="92f87dc3-0c25-48d0-a74d-e003e979e772" source="xpr0086" target="xpr0168"/>
+    <edge id="8aacb333-7398-4634-a0e4-253718cee944" source="xpr0063" target="xpr0053"/>
+    <edge id="046a35d2-fdc1-413c-849a-033096c84e18" source="xpr0153" target="xpr0149"/>
+    <edge id="f16640b6-002b-47fb-bc18-27e151c52804" source="xpr0197" target="xpr0077"/>
+    <edge id="b561cfc6-7891-4f07-81ec-a312928b55ca" source="xpr0077" target="xpr0059"/>
+    <edge id="96b728eb-492e-48ff-86d4-6a379d4cceee" source="xpr0153" target="xpr0052"/>
+    <edge id="cea8e138-73d7-4587-88c1-62234b9eb0c0" source="xpr0264" target="xpr0011"/>
+    <edge id="5992190d-bdc1-4855-ae49-11d18704aa64" source="xpr0264" target="xpr0027"/>
+    <edge id="6d0e1f85-7407-45b4-82d2-d6bbf0e2d71e" source="xpr0167" target="xpr0153"/>
+    <edge id="97856107-b515-4858-929e-1c58bc3f619e" source="xpr0190" target="xpr0113"/>
+    <edge id="5ba4c84b-1d10-4302-b7c6-847a3e798b4e" source="xpr0180" target="xpr0138"/>
+    <edge id="a021554b-7471-4e9c-a478-91a68f62d9e7" source="xpr0086" target="xpr0149"/>
+    <edge id="5503b6ee-1b60-4fee-b92a-a57882847a0e" source="xpr0153" target="xpr0149"/>
+    <edge id="5daa5c72-9d32-4ab0-b2d4-d92bfe81afac" source="xpr0077" target="xpr0180"/>
+    <edge id="e72aa751-4d25-4d48-aede-f7a05d876a83" source="xpr0012" target="xpr0197"/>
+    <edge id="91b1f3f2-94dd-4f98-9328-d669cb532082" source="xpr0086" target="xpr0077"/>
+    <edge id="b6a3d529-c570-43e2-b872-a4dce62bb055" source="xpr0170" target="xpr0140"/>
+    <edge id="75e6ee69-0cf6-45c8-99a9-77fd8b9bddee" source="xpr0194" target="xpr0059"/>
+    <edge id="41c2b464-bbf7-44e3-abbb-a4d7d5e63d41" source="xpr0194" target="xpr0124"/>
+    <edge id="3a9476b8-bbd6-4ed1-9f6b-12d27bcc2241" source="xpr0059" target="xpr0124"/>
+    <edge id="376d8740-3d21-462d-87c9-10babfd8dfee" source="xpr0140" target="xpr0105"/>
+    <edge id="08c47a4b-4306-4fd8-8010-93ce160dbb0d" source="xpr0087" target="xpr0181"/>
+    <edge id="6a2b4092-2aef-40aa-8221-dce220fd3884" source="xpr0086" target="xpr0063"/>
+    <edge id="2da03ed3-a80a-47a0-87df-37c3d0e7f5dd" source="xpr0027" target="xpr0153"/>
+    <edge id="798aba1a-a18f-45f1-972c-74d54f5e4447" source="xpr0170" target="xpr0140"/>
+    <edge id="28021540-fefa-448e-bf5a-c9d14f9eb8df" source="xpr0211" target="xpr0027"/>
+  </graph>
+</graphml>
